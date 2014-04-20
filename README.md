@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 uC-Test
 =======
 
@@ -50,9 +49,3 @@ main.asm
 --------
 
 The main program.
-=======
-uC-stuff
-========
-
-some avr-asm code
->>>>>>> 02320e39d82b8fb316ea8eb0d661f5c1d769fba2
